@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+    width: 300px;
+}
+.weatherNow {
+    background: rgb(120, 157, 226);
+    color: rgb(66, 66, 66);
+    padding: 10px;
+}
+.weatherNow__header {
+    display: block;
+    text-align: left;
+    font-size: 13px;
+}
+
+.weatherNow__main {
+    text-align: center;
+}
+.imgIcon{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.temp {
+    padding-bottom: 5px;
+    font-size: 24px;
+}
+.tempFeelsLike {
+    font-size: 12px;
+    padding-bottom: 16px;
+}
+.wind{
+padding-top: 8px;   
+display: flex;
+justify-content: space-around;
+}
+
+.weatherDay {
+    background: rgb(164, 187, 231);
+    color: rgb(66, 66, 66);
+    border: 1px solid  rgb(110, 110, 110);
+    border-top: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10px;
+}
+.dayDate {
+    padding-top: 5px;
+}
+
+.dayIcon {
+    height: 30px;
+    width: 30px;
+}
+.dayTemp {
+    padding-top: 5px;
+}
