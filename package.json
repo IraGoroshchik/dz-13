@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IraGoroshchik/dz-13.git",
-    "type": "module"
+    "url": "git+https://github.com/IraGoroshchik/dz-13.git"
+    
   },
   "keywords": [],
   "author": "",
