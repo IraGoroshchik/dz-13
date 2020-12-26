@@ -29,3 +29,5 @@ class WeatherBody {
     }
 
 }
+
+export { WeatherBody };

@@ -67,3 +67,5 @@ class WeatherHeader {
     }
 
 }
+
+export { WeatherHeader };

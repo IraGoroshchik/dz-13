@@ -18,9 +18,9 @@ function fetchData(method, url) {
     return promise;
 }
 
-import { WeatherHeader } from './weatherHeader'
+import { WeatherHeader } from './weatherHeader';
 
-import { WeatherBody } from './weatherBody'
+import { WeatherBody } from './weatherBody';
 
 
 fetchData('GET', urlWeather)
